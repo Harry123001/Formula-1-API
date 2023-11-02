@@ -36,16 +36,13 @@ export const getDriverById = async (req, res) => {
   }
 };
 
-// getDriverByFirstName: Retrieves a driver by their first name.
-export const getDriverByFirstName = async (req, res) => {
-  try {
-    const driver = await Driver.findOne({ name: { $regex: new RegExp("^" + req.params.firstName, "i") } });
-    res.json(driver);
-  } catch (error) {
-    console.log(error.message);
-    res.status(500).json({ error: error.message });
-  }
-};
+
+//getDriverbyName 
+export const getDriverbyName = async(req,res) =>{
+  const { name } = req.params;
+  const driver = await Driver.find({name});
+  res.json(driver);
+}
 
 // createDriver: Creates a new driver in the database.
 export const createDriver = async (req, res) => {
@@ -87,4 +84,25 @@ export const deleteDriverById = async (req, res) => {
 // export const errorHandler = (error, req, res) => {
 //   console.error(error);
 //   res.status(500).json({ error: error.message });
+// };
+
+
+
+
+
+// // getDriverByFirstName: Retrieves a driver by their name.
+// export const getDriver = async (req, res) => {
+//   try {
+//     const { id } = req.params;
+//     const driver = await Driver.findById(id);
+
+//     if (driver) {
+//       return res.json(driver);
+//     }
+
+//     res.stats(404).json({ message: "Driver not found!" });
+//   } catch (error) {
+//     console.log(error.message);
+//     res.status(500).json({ error: error.message });
+//   }
 // };
