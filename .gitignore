@@ -1,0 +1,3 @@
+/node_modules
+
+    # "dev:seed": "railway run npm run db:seed && npm run dev"

@@ -1,0 +1,419 @@
+[
+    {
+      "name": "Lewis Hamilton",
+      "nationality": "British",
+      "team": "Mercedes-AMG Petronas Formula One Team",
+      "officialNumber": 44,
+      "podiums": 194,
+      "wins": 103,
+      "pointsByYear": [
+        {
+          "year": 2022,
+          "points": 240,
+          "teamName": "Mercedes-AMG Petronas Formula One Team"
+        },
+        {
+          "year": 2023,
+          "points": 102,
+          "teamName": "Mercedes-AMG Petronas Formula One Team"
+        }
+      ],
+      "image": "https://media.formula1.com/content/dam/fom-website/drivers/2023Drivers/hamilton.jpg.img.1536.medium.jpg/1677069594164.jpg"
+    },
+   
+    {
+      "name": "Charles Leclerc",
+      "nationality": "Monegasque",
+      "team": "Scuderia Ferrari Mission Winnow",
+      "officialNumber": 16,
+      "podiums": 25,
+      "wins": 5,
+      "pointsByYear": [
+        {
+          "year": 2022,
+          "points": 308,
+          "teamName": "Scuderia Ferrari Mission Winnow"
+        },
+        {
+          "year": 2023,
+          "points": 54,
+          "teamName": "Scuderia Ferrari Mission Winnow"
+        }
+      ],
+      "image": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/C/CHALEC01_Charles_Leclerc/chalec01.png.transform/2col-retina/image.png"
+    },
+    {
+      "name": "Max Verstappen",
+      "nationality": "Dutch",
+      "team": "Red Bull Racing Honda",
+      "officialNumber": 1,
+      "podiums": 85,
+      "wins": 41,
+      "pointsByYear": [
+        {
+          "year": 2022,
+          "points": 454,
+          "teamName": "Red Bull Racing Honda"
+        },
+        {
+          "year": 2023,
+          "points": 195,
+          "teamName": "Red Bull Racing Honda"
+        }
+      ],
+      "image": "https://media.formula1.com/content/dam/fom-website/drivers/2023Drivers/verstappen.jpg.img.1536.medium.jpg/1677069646195.jpg"
+    },
+    {
+      "name": "Valtteri Bottas",
+      "nationality": "Finnish",
+      "team": "Alfa Romeo Racing ORLEN",
+      "officialNumber": 77,
+      "podiums": 67,
+      "wins": 10,
+      "pointsByYear": [
+        {
+          "year": 2022,
+          "points": 49,
+          "teamName": "Alfa Romeo Racing ORLEN"
+        },
+        {
+          "year": 2023,
+          "points": 5,
+          "teamName": "Alfa Romeo Racing ORLEN"
+        }
+      ],
+      "image": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/V/VALBOT01_Valtteri_Bottas/valbot01.png.transform/2col-retina/image.png"
+    },
+    {
+      "name": "Carlos Sainz",
+      "nationality": "Spanish",
+      "team": "Scuderia Ferrari Mission Winnow",
+      "officialNumber": 55,
+      "podiums": 15,
+      "wins": 1,
+      "pointsByYear": [
+        {
+          "year": 2022,
+          "points": 246,
+          "teamName": "Scuderia Ferrari Mission Winnow"
+        },
+        {
+          "year": 2023,
+          "points": 68,
+          "teamName": "Scuderia Ferrari Mission Winnow"
+        }
+      ],
+      "image": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/C/CARSAI01_Carlos_Sainz/carsai01.png.transform/2col-retina/image.png"
+    },
+    {
+      "name": "Lando Norris",
+      "nationality": "British",
+      "team": "McLaren F1 Team",
+      "officialNumber": 6,
+      "podiums": 6,
+      "wins": 0,
+      "pointsByYear": [
+        {
+          "year": 2022,
+          "points": 122,
+          "teamName": "McLaren F1 Team"
+        },
+        {
+          "year": 2023,
+          "points": 12,
+          "teamName": "McLaren F1 Team"
+        }
+      ],
+      "image": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/L/LANNOR01_Lando_Norris/lannor01.png.transform/2col-retina/image.png"
+    },
+    {
+      "name": "Fernando Alonso",
+      "nationality": "Spanish",
+      "team": "Aston Martin Cognizant Formula One Team",
+      "officialNumber": 14,
+      "podiums": 104,
+      "wins": 32,
+      "pointsByYear": [
+        {
+          "year": 2022,
+          "points": 81,
+          "teamName": "Alpine F1 Team"
+        },
+        {
+          "year": 2023,
+          "points": 117,
+          "teamName": "Aston Martin Cognizant Formula One Team"
+        }
+      ],
+      "image": "https://media.formula1.com/content/dam/fom-website/drivers/2023Drivers/alonso.jpg.img.1536.medium.jpg/1677244577162.jpg"
+    },
+    {
+      "name": "Lance Stroll",
+      "nationality": "Canadian",
+      "team": "Aston Martin Cognizant Formula One Team",
+      "officialNumber": 18,
+      "podiums": 3,
+      "wins": 0,
+      "pointsByYear": [
+        {
+          "year": 2022,
+          "points": 18,
+          "teamName": "Aston Martin Cognizant Formula One Team"
+        },
+        {
+          "year": 2023,
+          "points": 37,
+          "teamName": "Aston Martin Cognizant Formula One Team"
+        }
+      ],
+      "image": "https://media.formula1.com/content/dam/fom-website/drivers/2023Drivers/stroll.jpg.img.1536.medium.jpg/1677069453013.jpg"
+    },
+    {
+      "name": "Alexander Albon",
+      "nationality": "Thai",
+      "team": "Williams Racing",
+      "officialNumber": 23,
+      "podiums": 2,
+      "wins": 0,
+      "pointsByYear": [
+        {
+          "year": 2022,
+          "points": 4,
+          "teamName": "Williams Racing"
+        },
+        {
+          "year": 2023,
+          "points": 7,
+          "teamName": "Williams Racing"
+        }
+      ],
+      "image": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/A/ALEALB01_Alexander_Albon/alealb01.png.transform/2col-retina/image.png"
+    },
+    {
+      "name": "Kevin Magnussen",
+      "nationality": "Danish",
+      "team": "Haas F1 Team",
+      "officialNumber": 20,
+      "podiums": 1,
+      "wins": 0,
+      "pointsByYear": [
+        {
+          "year": 2022,
+          "points": 25,
+          "teamName": "Haas F1 Team"
+        },
+        {
+          "year": 2023,
+          "points": 2,
+          "teamName": "Haas F1 Team"
+        }
+      ],
+      "image": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/K/KEVMAG01_Kevin_Magnussen/kevmag01.png.transform/2col-retina/image.png"
+    },
+    {
+      "name": "Pierre Gasly",
+      "nationality": "French",
+      "team": "Alpine F1 Team",
+      "officialNumber": 10,
+      "podiums": 3,
+      "wins": 1,
+      "pointsByYear": [
+        {
+          "year": 2022,
+          "points": 23,
+          "teamName": "Scuderia AlphaTauri Honda"
+        },
+        {
+          "year": 2023,
+          "points": 15,
+          "teamName": "Alpine F1 Team"
+        }
+      ],
+      "image": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/P/PIEGAS01_Pierre_Gasly/piegas01.png.transform/2col-retina/image.png"
+    },
+    {
+      "name": "Oscar Piastri",
+      "nationality": "Australian",
+      "team": "McLaren F1 Team",
+      "officialNumber": 7,
+      "podiums": 0,
+      "wins": 0,
+      "pointsByYear": [
+        {
+          "year": 2023,
+          "points": 5,
+          "teamName": "McLaren F1 Team"
+        }
+      ],
+      "image": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/O/OSCPIA01_Oscar_Piastri/oscpia01.png.transform/2col-retina/image.png"
+    },
+    {
+      "name": "Logan Sargeant",
+      "nationality": "American",
+      "team": "Williams Racing",
+      "officialNumber": 2,
+      "podiums": 0,
+      "wins": 0,
+      "pointsByYear": [
+        {
+          "year": 2023,
+          "points": 0,
+          "teamName": "Williams Racing"
+        }
+      ],
+      "image": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/L/LOGSAR01_Logan_Sargeant/logsar01.png.transform/2col-retina/image.png"
+    },
+    {
+      "name": "Guanyu Zhou",
+      "nationality": "Chinese",
+      "team": "Alfa Romeo Racing ORLEN",
+      "officialNumber": 24,
+      "podiums": 0,
+      "wins": 0,
+      "pointsByYear": [
+        {
+          "year": 2022,
+          "points": 5,
+          "teamName": "Alfa Romeo Racing ORLEN"
+        },
+        {
+          "year": 2023,
+          "points": 4,
+          "teamName": "Alfa Romeo Racing ORLEN"
+        }
+      ],
+      "image": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/G/GUAZHO01_Guanyu_Zhou/guazho01.png.transform/2col-retina/image.png"
+    },
+    {
+      "name": "Yuki Tsunoda",
+      "nationality": "Japanese",
+      "team": "Scuderia AlphaTauri Honda",
+      "officialNumber": 22,
+      "podiums": 0,
+      "wins": 0,
+      "pointsByYear": [
+        {
+          "year": 2021,
+          "points": 32,
+          "teamName": "Scuderia AlphaTauri Honda"
+        },
+        {
+          "year": 2022,
+          "points": 22,
+          "teamName": "Scuderia AlphaTauri Honda"
+        },
+        {
+          "year": 2023,
+          "points": 2,
+          "teamName": "Scuderia AlphaTauri Honda"
+        }
+      ],
+      "image": "https://media.formula1.com/content/dam/fom-website/drivers/2023Drivers/tsunoda.jpg.img.1024.medium.jpg/1677069846213.jpg"
+    },
+    {
+      "name": "Nico Hulkenberg",
+      "nationality": "German",
+      "team": "Haas F1 Team",
+      "officialNumber": 27,
+      "podiums": 0,
+      "wins": 0,
+      "pointsByYear": [
+        {
+          "year": 2020,
+          "points": 10,
+          "teamName": "Aston Martin Cognizant Formula One Team"
+        },
+        {
+          "year": 2023,
+          "points": 6,
+          "teamName": "Haas F1 Team"
+        }
+      ],
+      "image": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/N/NICHUL01_Nico_Hulkenberg/nichul01.png.transform/2col-retina/image.png"
+    },
+    {
+      "name": "Esteban Ocon",
+      "nationality": "French",
+      "team": "Alpine F1 Team",
+      "officialNumber": 31,
+      "podiums": 3,
+      "wins": 1,
+      "pointsByYear": [
+        {
+          "year": 2022,
+          "points": 17,
+          "teamName": "Alpine F1 Team"
+        },
+        {
+          "year": 2023,
+          "points": 29,
+          "teamName": "Alpine F1 Team"
+        }
+      ],
+      "image": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/E/ESTOCO01_Esteban_Ocon/estoco01.png.transform/2col-retina/image.png"
+    },
+    {
+      "name": "George Russell",
+      "nationality": "British",
+      "team": "Mercedes-AMG Petronas Formula One Team",
+      "officialNumber": 63,
+      "podiums": 9,
+      "wins": 1,
+      "pointsByYear": [
+        {
+          "year": 2022,
+          "points": 275,
+          "teamName": "Mercedes-AMG Petronas Formula One Team"
+        },
+        {
+          "year": 2023,
+          "points": 65,
+          "teamName": "Mercedes-AMG Petronas Formula One Team"
+        }
+      ],
+      "image": "https://media.formula1.com/content/dam/fom-website/drivers/2023Drivers/russell.jpg.img.1536.medium.jpg/1677069334466.jpg"
+    },
+    {
+      "name": "Sergio Perez",
+      "nationality": "Mexican",
+      "team": "Red Bull Racing Honda",
+      "officialNumber": 11,
+      "podiums": 20,
+      "wins": 4,
+      "pointsByYear": [
+        {
+          "year": 2022,
+          "points": 305,
+          "teamName": "Red Bull Racing Honda"
+        },
+        {
+          "year": 2023,
+          "points": 126,
+          "teamName": "Red Bull Racing Honda"
+        }
+      ],
+      "image": "https://media.formula1.com/content/dam/fom-website/drivers/2023Drivers/perez.jpg.img.1536.medium.jpg/1677069773437.jpg"
+    },
+    {
+      "name": "Daniel Ricciardo",
+      "team": "Scuderia AlphaTauri Honda",
+      "officialNumber": 5,
+      "nationality": "Australian",
+      "podiums": 32,
+      "wins": 8,
+      "pointsByYear": [
+        {
+          "year": 2022,
+          "points": 37,
+          "teamName": "McLaren F1 Team"
+        },
+        {
+            "year": 2023,
+            "points": 6
+        }
+      ],
+      "image": "https://cdn-3.motorsport.com/images/mgl/Y9oBpLx0/s800/f1-australian-gp-2017-daniel-ricciardo-red-bull-racing.jpg"
+    }
+]
+   
+   
