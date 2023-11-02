@@ -4,14 +4,7 @@ import Driver from "../models/Driver.js"
 
 const router = Router();
 
-router.get("/", async (req, res, next) => {
-  try {
-    const drivers = await Driver.find();
-    res.json(drivers);
-  } catch (err) {
-    next(err);
-  }
-});
+router.get("/", async (req, res) => res.send('This is the API root'))
 
 router.use("/drivers", driversRoutes);
 
