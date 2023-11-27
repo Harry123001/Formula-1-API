@@ -24,8 +24,6 @@ db.on("connected", () => {
   });
 });
 
-app.use("/api", routes);
-
 // // error handling middleware
 // app.use((err, req, res, next) => {
 //   console.error(err.stack);

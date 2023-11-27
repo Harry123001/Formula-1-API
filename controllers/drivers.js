@@ -61,7 +61,7 @@ export const createDriver = async (req, res) => {
 export const updateDriver = async (req, res) => {
   const { id } = req.params;
   const driver = await Driver.findByIdAndUpdate(id, req.body);
-  res.status(200).json(team);
+  res.status(200).json(driver);
 };
 
 //deleteDriverById: Deletes a driver from the database by their ID.
