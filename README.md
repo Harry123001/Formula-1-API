@@ -2,7 +2,6 @@
 
 This is an API for all the current Formula Drivers for year 2023
 API link : https://formula1-api-238f33f4ace2.herokuapp.com/api/drivers
-GitHub Copilot: Here's a table for your routes:
 
 | Method | Route         | Action                |
 | ------ | ------------- | --------------------- |
